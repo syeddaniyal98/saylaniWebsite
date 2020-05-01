@@ -1,0 +1,1128 @@
+
+ html {
+   overflow-x:hidden;
+  } 
+  
+  .dv1{
+      background-color: blue;
+      height: 76px; 
+      margin: -1em -2em;
+      top: -1em;
+
+  }
+  
+.fb{
+    position: relative;
+    width: 20px;
+    height: 20px;
+margin: 0em 7em ;
+ top: 1em;
+border-radius: 3em;
+}
+.twt{
+    position: relative;
+    width: 20px;
+    height: 20px;
+margin: 0em -6em;
+top: 1em;
+border-radius: 3em;
+}
+.insta{
+    position: relative;
+    width: 20px;
+    height: 20px;
+margin: 0em 7em ;
+top: 1em;
+border-radius: 3em;
+}
+.youtube{
+    position: relative;
+    width: 20px;
+    height: 20px;
+margin: 0em -6em;
+top: 1em;
+border-radius: 3em;
+}
+.whatsapp{
+    position: relative;
+    width: 20px;
+    height: 20px;
+margin: 0em 7em ;
+top: 1em;
+border-radius: 3em;
+}
+.p1{
+    position: relative;
+margin: -1.2em 22em;
+top: 1em;
+color:white;
+
+}
+.btn1{
+    position: relative;
+    width: 7em;
+    height: 2em;
+margin: 0em 67em ;
+top: 1em;
+color: red;
+}
+.btn2{
+    position: relative;
+    width: 7em;
+    height: 2em;
+    margin:-8em 75em;
+    top: -0.6em;
+    color: red;
+  
+}
+.btn3{
+    position: relative;
+    width: 9em;
+    height: 2em;
+    margin:-8em 83em;
+    top: -2em;
+    color: red;
+  
+}
+.dv2{
+    background-color:whitesmoke;
+    overflow-y:hidden;
+    margin: 0em -1em;
+
+
+
+}
+.saylanilogo{
+    width: 9em;;
+    height: 4em;
+    margin: 0em 5em;
+
+}
+.home{
+    position: relative;
+background-color: blue;
+color: white;
+border-radius: 25px;
+margin: 0em 0em;
+top: -2em;
+height: 3em;
+width: 6em;
+border-color: blue;
+
+}
+.About{
+    position: relative;
+color:black;
+margin: 0em 0em;
+top: -2em;
+height: 3em;
+width: 4.3em;
+border: none;
+padding: 0;
+border: none;
+background: none;
+
+}
+.About:hover{
+    position: relative;
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 4.3em;
+    border-color: blue;
+
+}
+.Saylani_Services{
+    position: relative;
+color:black;
+margin: 0em 0em;
+top: -2em;
+height: 3em;
+width: 10em;
+border: none;
+border: none;
+background: none;
+}
+.Saylani_Services:hover{
+    position: relative;
+    background-color: blue;
+    border-radius: 25px;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 10em;
+    border-color: blue;
+
+}
+.Projects{
+    position: relative;
+    color:black;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 5.5em;
+    border: none;
+    border: none;
+    background: none;
+}
+.Projects:hover{
+    position: relative;
+    background-color: blue;
+    border-radius: 25px;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 5.5em;
+    border-color: blue;
+
+}
+.Media{
+    position: relative;
+    color:black;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 5.5em;
+    border: none;
+    border: none;
+    background: none;
+}
+.Media:hover{
+    position: relative;
+    background-color: blue;
+    border-radius: 25px;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 5.5em;
+    border-color: blue;
+}
+.News{
+    position: relative;
+    color:black;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 5.5em;
+    border: none;
+    border: none;
+    background: none;
+}
+.News:hover{
+    position: relative;
+    background-color: blue;
+    border-radius: 25px;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 5.5em;
+    border-color: blue;
+}
+.Donation{
+    position: relative;
+    color:black;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 6em;
+    border: none;
+    border: none;
+    background: none;
+}
+.Donation:hover{
+    position: relative;
+    background-color: blue;
+    border-radius: 25px;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 6em;
+    border-color: blue;
+}
+.Contact_us{
+    position: relative;
+    color:black;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 6.5em;
+    border: none;
+    border: none;
+    background: none;
+}
+.Contact_us:hover{
+    position: relative;
+    background-color: blue;
+    border-radius: 25px;
+    margin: 0em 0em;
+    top: -2em;
+    height: 3em;
+    width: 6em;
+    border-color: blue;
+}
+.Saylani_Dv3{
+    width: 87em;;
+    height: 30em;
+    margin: 0em -1em;
+}
+.dv4{
+    background-color: blue;
+    height: 50px;
+    top: 5em;
+}
+.p2{
+    position:relative;
+    margin: 0em 30em;
+    color: white;
+}
+.dv5{
+    background-color: whitesmoke;
+    margin: 0em -1em;
+}
+.Intro{
+    position: relative;
+    color: blue;
+    margin: 0em 17em;
+}
+.Duction{
+    position: relative;
+    color:brown;
+    margin: 0em 20.2em;
+   top: -1.1em;
+}
+.p3{
+    position: relative;
+    color:darkred;
+    margin: 0em 38em;
+    top: -1em;
+
+}
+.small{
+    position: relative;
+    width: 2em;;
+    height: 2em;
+    margin: 0em 41em;
+    top: -2.7em;
+    border-radius: 1em;
+}
+.p4{
+    
+        position: relative;
+        color:darkred;
+        margin: 0em 44em;
+        top: -4.3em;
+    
+    
+}
+.p5{
+    margin: 0em 9.9em;
+    color:gray;
+    padding: 1.3em;
+}
+.p6{
+    margin: 0em 9.8em;
+    color:gray;
+     padding: 1.3em;
+} 
+.p7{
+    margin: 0em 9.8em;
+    color:gray;
+    padding: 1.3em;
+}
+.p8{
+    margin: 0em 9.8em;
+    color:gray;
+    padding: 1.3em;
+}
+
+
+
+
+
+.dv6{
+  background-color: blue;
+  height: 300px;
+  width: 1510px;
+  margin: 0em -1em;
+position: relative;
+overflow: hidden;
+}
+.dastarkhan{
+    position:relative;
+    width: 3em;
+    height: 3em;
+    margin: 0em 15em;
+    top: 5em;
+    border-radius: 2em;
+}
+.onetwo{
+    position: relative;
+    width: 8em;
+    height: 19em;
+    margin: 0em 1em 0em 3em;
+    color: white; 
+    font-size:50px;
+    top: 2em;
+}
+.fv{
+    position: relative;
+    color:white;
+    font-size: 70px;
+    margin: 0em 6em 0em 2.9em ;
+    top: -12.4em;
+
+}
+.zero{
+    position: relative;
+    color:white;
+    font-size: 60px;
+    margin: 0em 6em 0em 4.1em ;
+    top: -16em;
+}
+.adapt{
+    position:relative;
+    width: 3em;
+    height: 3em;
+    margin: 0em 33.5em;
+    top: -71em;
+    border-radius: 2em;
+}
+.sevenfive{
+    position: relative;
+    width: 8em;
+    height: 19em;
+    margin: 0em 10.1em;
+    color: white; 
+    font-size:50px;
+    top: -22.3em;
+}
+.zerozero{
+    position: relative;
+    color:white;
+    font-size: 60px;
+    margin: 0em 9.5em ;
+    top: -34.6em;
+}
+.daily{
+   position: relative;
+    font-size: 17px;
+    top: -55em;
+    margin: 0em 6em;
+    color: white;
+}
+.monthly{
+    position: relative;
+    font-size: 21px;
+    top: -45.7em;
+    margin: 0em 13.5em;
+    color:green;
+}
+.dop{
+    position: relative;
+    font-size: 17px;
+    top: -54.8em;
+    margin: -66em 30em 0em 27em;
+    color:white;
+}
+.monthly2{
+    position: relative;
+    font-size: 21px;
+    top: -45.5em;
+    margin: 0em 29.6em;
+    color:black;
+
+}
+.stethscope{
+    
+        position:relative;
+        width: 3em;
+        height: 3em;
+        margin: 0em 52em;
+        top: -70.8em;
+        border-radius: 2em;
+    
+}
+.fourthree{
+    position: relative;
+    width: 8em;
+    height: 19em;
+    margin: 0em 15.5em;
+    color: white; 
+    font-size:50px;
+    top: -22.3em;
+
+}
+.medical_one{
+    position: relative;
+    font-size: 17px;
+    top: -50.6em;
+    margin: -66em 30em 0em 46em;
+    color:white;
+
+}
+.monthly3{
+    position: relative;
+    font-size: 21px;
+    top: -42.1em;
+    margin: 0em 41.2em;
+    color:black;
+}
+.educationgraduate{
+    
+    position:relative;
+    width: 3em;
+    height: 3em;
+    margin: 0em 70em;
+    top: -66em;
+    border-radius: 2em;
+
+}
+.oneeight{
+    position: relative;
+    width: 8em;
+    height: 19em;
+    margin: 0em 21em;
+    color: white; 
+    font-size:50px;
+    top: -20.9em;
+
+}
+.zerozerozero{
+    position: relative;
+    color:white;
+    font-size: 60px;
+    margin: 0em 19em ;
+    top: -33.5em;
+}
+.educationgra{
+    position: relative;
+    font-size: 17px;
+    top: -50.5em;
+    margin: -66em 30em 0em 62em;
+    color:white;
+    
+}
+.monthly4{
+    position: relative;
+    font-size: 21px;
+    top: -42.1em;
+    margin: 0em 55.2em;
+    color:black;
+}
+.dv7{
+    background-color: whitesmoke;
+    margin: -2em -2em;
+    height: 45em;
+    overflow: hidden;
+  
+}
+.what{
+    position: relative;
+    color: blue;
+    text-align: center;
+ margin-left: -3em;
+ top: 2em;
+
+}
+.are{
+    position: relative;
+    text-align: center;
+ margin-left: -4em;
+ top: -0.2em;
+ margin: 1em 0em 0em 8.5em;
+ color: brown;
+}
+.p11{
+    position: relative;
+    color:darkred;
+    margin: 1.3em 43em;
+}
+.imgs{
+    position: relative;
+    width: 2em;;
+    height: 2em;
+    margin: 0em 45.8em;
+    top: -3.4em;
+    border-radius: 1em;
+}
+.p12{
+        position: relative;
+        color:darkred;
+        margin: 0em 48.8em;
+    top: -4.7em;
+    
+}
+.dv8{
+    height: 200px;
+    width:350px;
+    background-color:white;
+    margin: 0em 10em;
+    border: solid white;
+}
+.Sadqah{
+    position:relative;
+    width: 5em;
+    height: 5em;
+    margin: 0em 18em;
+    top: -11em;
+    border-radius: 6em;
+}
+.onlineSadqah{
+    color: blue;
+    font-size: 20px;
+    margin: -8em 12em ;
+    top: -22em;
+}
+.dv9{
+    height: 205px;
+    width: 350px;
+    background-color: white;
+    position: relative;
+    margin: 0.5em 34em;
+    top: -0.9;
+}
+.family{
+    position:relative;
+    width: 5em;
+    height: 5em;
+    margin: 0em 42em;
+    top: -11em;
+}
+.welfareonetwo{
+    position: relative;
+    color: blue;
+    font-size: 20px;
+    margin: -4em 33em ;
+    top: -4.2em;
+}
+.dv10{
+    height: 205px;
+    width: 350px;
+    background-color: white;
+    position: relative;
+    margin: 0.5em 57.5em;
+    top: -10.6em;
+}
+.medical{
+    position:relative;
+    width: 5em;
+    height: 5em;
+    margin: 0em 65em;
+    top: -21.5em;
+    border-radius: 2em;
+}
+.med{
+    position: relative;
+    color: blue;
+    font-size: 20px;
+    margin: -4em 52em ;
+     top: -12.5em;
+}
+.dv12{
+    height: 205px;
+    width: 354px;
+    background-color: white;
+    position: relative;
+    margin: 0.5em 10em;
+    top: -5.9em;
+
+}
+.dastar{
+    position:relative;
+    width: 5em;
+    height: 5em;
+    margin: 0em 18em;
+    top: -17em;
+    border-radius: 2em;
+
+}
+.das{
+    position: relative;
+    color: blue;
+    font-size: 20px;
+    margin: -4em 13em ;
+     top: -9em;
+}
+.dv13{
+    height: 205px;
+    width: 354px;
+    background-color: white;
+    position: relative;
+    margin: 0.5em 34em;
+    top: -16.5em;
+
+}
+.ro{
+    position:relative;
+    width: 5em;
+    height: 5em;
+    margin: 0em 42em;
+    top: -27em;
+    border-radius: 2em;
+}
+.RO{
+    position: relative;
+    color: blue;
+    font-size: 20px;
+     margin: 0em 32.3em ;
+     top: -21.5em
+}
+.dv14{
+    height: 204px;
+    width: 350px;
+    background-color: white;
+    position: relative;
+    margin: 0em 57.8em;
+    top: -36.5em;
+}
+.ed{
+    position:relative;
+    width: 5em;
+    height: 5em;
+    margin: 0em 66em;
+    top: -47em;
+    border-radius: 2em;
+}
+.edd1{
+    position: relative;
+    color: blue;
+    font-size: 20px;
+     margin: 0em 52em ;
+     top: -36.9em
+}
+.dv15{
+    position: relative;
+    background-color:white;
+   width: 90em;
+   height: 60em;
+  margin: 0em -1em;
+  top: 1em;
+  overflow: hidden;
+
+}
+.mission{
+    position: relative;
+    font-size: 25px;
+    color: blue;
+    top: 3em;
+    margin-left: 5.8em;
+}
+.pmm{
+    font-size: 2em;
+    position: relative;
+    color:darkred;
+     margin: 0em 4.5em;
+    top: 1em;
+
+}
+.dv16{
+    height: 80px;
+    width: 380px;
+    background-color:whitesmoke;
+    position: relative;
+    margin: 0em 9em;
+    top: 4em;
+}
+.hep{
+    position: relative;
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    margin: 0em  10em;
+    top: -0.2em;
+}
+.hepatitis{
+    position: relative;
+    color: blue;
+    font-size: 18px;
+    margin: 0em 11.5em;
+    top: -1.5em;
+}
+.dv17{
+    height: 80px;
+    width: 380px;
+    background-color:whitesmoke;
+    position: relative;
+    margin: 0em 34em;
+    top: -4.7em;
+}
+.house{
+    position: relative;
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    margin: 0em  35em;
+    top: -8.7em;
+}
+.housing{
+    position: relative;
+    color: blue;
+    font-size: 18px;
+    margin: 0em 33.5em;
+    top: -9.1em;
+}
+.dv18{
+    height: 80px;
+    width: 380px;
+    background-color:whitesmoke;
+    position: relative;
+    margin: 0em 9em;
+    top: -7em;
+}
+.it{
+    position: relative;
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    margin: 0em  10em;
+    top: -10.5em;
+}
+.It{
+    position: relative;
+    color: blue;
+    font-size: 18px;
+    margin: 0em 11.6em;
+    top: -11em;
+}
+.dv19{
+    height: 80px;
+    width: 380px;
+    background-color:whitesmoke;
+    position: relative;
+    margin: 0em 34em;
+    top: -15.6em;
+}
+.thar{
+    position: relative;
+    color: blue;
+    font-size: 18px;
+    margin: 0em 31em;
+    top: -17em;
+}
+.tharparker{
+    position: relative;
+    color: blue;
+    font-size: 18px;
+    margin: 0em 34em;
+    top: -18.5em;
+}
+.upcoming{
+    position: relative;
+    font-size: 25px;
+    color: blue;
+    top: -22em;
+   margin: 0em 38em;
+
+}
+.event{
+    position: relative;
+    font-size: 25px;
+    color: blue;
+    top: -23.1em;
+   margin: 0em 42.5em;
+}
+.underline{
+    position: relative;
+    font-size: 25px;
+    color:grey;
+    top: -23.5em;
+   margin: 0em 38em;
+}
+.ration{position: relative;
+    font-size: 18px;
+    color: gray;
+    top: -33.1em;
+   margin: 0em 56em;
+}
+.image{
+    position: relative;
+    color: blue;
+    text-align: center;
+    margin-left: -5em;
+    top: -15em;
+}
+.gallery{
+    position: relative;
+    color: brown;
+    text-align: center;
+    margin-left: 4em;
+    top: -16.8em;
+}
+.p17{
+    position: relative;
+    color:darkred;
+    margin: 1.3em 42em;
+    top: -32.5em;
+}
+.pic{
+    position: relative;
+    width: 2.5em;;
+    height: 2.5em;
+    margin: 0em 44.5em;
+    top: -36em;
+    border-radius: 2em;
+}
+.p18{
+        position: relative;
+        color:darkred;
+        margin: 0em 47.5em;
+        top: -37.7em;
+    
+}
+.rashan1{
+    position: relative;
+    width: 230px;
+    height: 140px;
+    margin: 0em 7em;
+    top: -34em;
+}
+.foodhaz{
+    position: relative;
+    width: 230px;
+    height: 140px;
+    margin: 0em -7em;
+    top: -34em;
+}
+.hazrat1{
+    position: relative;
+    width: 230px;
+    height: 140px;
+    margin: 0em 7em;
+    top: -34em;
+}
+.rashan2{
+    position: relative;
+    width: 230px;
+    height: 140px;
+    margin: 0em 50.9em;
+    top: -43em;
+}
+.hazrat2{
+    position: relative;
+    width: 230px;
+    height: 140px;
+    margin: 0em 65.5em;
+    top: -52em;
+}
+.dv20{
+    position: relative;
+    background-color:darkslategray;
+   width: 90em;
+   height: 15em;
+  margin: 0em -1em;
+  top: 1em;
+  overflow: hidden;
+}
+.head{
+    color: gainsboro;
+    font-size: 15px;
+    position: relative;
+    margin: 0em 4em;
+   top: 3em;
+
+}
+.bahadurabad{
+    color: gainsboro;
+    font-size: 15px;
+    position: relative;
+    margin: 0em 4em;
+  top: 3.2em;
+}
+.call1{
+    position: relative;
+    width: 12px;
+    height: 12px;
+    margin-left: 5em;
+    top: 4em;
+    border-radius: 1em;
+}
+.uan{
+    color: gainsboro;
+    font-size: 15px;
+    position: relative;
+    margin: 0em 6.5em;
+   top: 2.9em;
+
+}
+.call2{
+    position: relative;
+    width: 12px;
+    height: 12px;
+    margin-left: 5em;
+    top: 3.5em;
+    border-radius: 1em;
+}
+.cell{
+    color: gainsboro;
+    font-size: 15px;
+    position: relative;
+    margin: 0em 6.5em;
+   top: 2.5em;
+}
+ .call3{
+    position: relative;
+    width: 12px;
+    height: 12px;
+    margin-left: 5em;
+    top: 2.9em;
+    border-radius: 1em;
+}
+ .usa{
+    color: gainsboro;
+    font-size: 15px;
+    position: relative;
+    margin: 0em 6.5em;
+   top: 1.9em;
+}
+.call4{
+    position: relative;
+    width: 12px;
+    height: 12px;
+    margin-left: 5em;
+    top:2.4em;
+    border-radius: 1em;
+}
+ .uk{
+    color: gainsboro;
+    font-size: 15px;
+    position: relative;
+    margin: 0em 6.5em;
+   top: 1.2em;
+}
+ .mail{
+    position: relative;
+    width: 19px;
+    height: 19px;
+    margin-left: 4.8em;
+    top: 1.8em;
+    border-radius: 1em;
+}
+.inf{
+    color: gainsboro;
+    font-size: 15px;
+    position: relative;
+    margin: 0em 7em;
+   top: 0.5em;
+}
+.world{
+    position: relative;
+    width: 19px;
+    height: 19px;
+    margin-left: 17em;
+    border-radius: 1em;
+    bottom: 7.5em;
+}
+.worl{
+    color: gainsboro;
+    font-size: 15px;
+    position: relative;
+    margin: 0em 20em;
+   bottom: 9.5em;
+}
+ .usefull{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    margin: 0em 22em;
+  bottom: 10em;
+}
+.under{
+    position: relative;
+    font-size: 25px;
+    color:grey;
+    bottom: 9.8em;
+   margin: 0em 19.4em;
+}
+.underred{
+    font-size: 2em;
+    position: relative;
+    color:red;
+     margin: 0em 15em;
+    bottom: 9.3em;
+}
+ .content{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    margin: 0em 0em 0em 0em;
+    bottom: 16.5em;
+    left: 43.8em;
+  
+}
+.fb1{
+    position: relative;
+    width: 25px;
+    height: 25px;
+margin: 0em 62em ;
+bottom: 19em;
+border-radius: 4em;
+}
+.twt1{
+    position: relative;
+    width: 25px;
+    height: 25px;
+margin: 0em 59em;
+bottom: 20.7em;
+border-radius: 4em;
+}
+.insta1{
+    position: relative;
+    width: 25px;
+    height: 25px;
+margin: 0em 55.7em ;
+bottom: 22.5em;
+border-radius: 4em;
+}
+.youtube1{
+    position: relative;
+    width: 25px;
+    height: 25px;
+margin: 0em 53em;
+bottom: 24.3em;
+border-radius: 4em;
+}
+.whatsapp1{
+    position: relative;
+    width: 25px;
+    height: 25px;
+margin: 0em 65em ;
+bottom: 26.1em;
+border-radius: 4em;
+}
+.dv35{
+    position: relative;
+    overflow: hidden;
+    background-color: blue;
+    height: 50px;
+    width: 1410px;
+    right: 1em;
+    top: 1em;
+}
+.copyright{
+    position: relative;
+    color: white;
+    font-size: 15px;
+    left: 5em;
+}
+.arrow{
+    position: relative;
+margin: 0em 80em 7em;
+top: -2.7em;
+height: 50px;
+width: 50px;
+background-color: transparent;
+border-color: grey;
+}
+.arrow:hover{
+    background-color:lightcyan;
+}
+.arr{
+    position: relative;
+    width: 46px;
+    height: 45px;
+
+
+}
